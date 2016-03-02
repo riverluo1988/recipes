@@ -1,4 +1,5 @@
 1, put coffee power in
 2, heat the water
 3,turn on the machine
-4,enjoy
+4,add sugar
+5,enjoy
